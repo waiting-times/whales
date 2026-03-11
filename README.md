@@ -2,8 +2,9 @@
 
 This repository contains MATLAB scripts used for numerical illustrations in the paper:
 
-Bechly, Gauger, Sternberg, and Hössjer  
-"Temporal Constraints for the Evolution of the Whale Locomotory System"
+Bechly, G., Gauger, A. K., Hössjer, O., Nelson, P. A., von Sternberg, R., and Luskin, C.  
+*Temporal Constraints on the Evolution of the Whale Locomotory System (Mammalia: Cetacea): A Waiting Times Analysis*.
+
 
 The calculations are adapted from MATLAB programs originally developed for:
 
